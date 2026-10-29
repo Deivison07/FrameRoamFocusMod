@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "Открывайте веб-видео в отдельном окне с поворотом, масштабом, полноэкранным режимом и управлением с клавиатуры."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "Вписать"
+   },
+   "fiveSeconds": {
+      "message": "5 с"
+   },
+   "fullscreen": {
+      "message": "Полный экран (F)"
+   },
+   "localProcessing": {
+      "message": "Обработка на устройстве"
+   },
+   "mute": {
+      "message": "Без звука (M)"
+   },
+   "noTransmission": {
+      "message": "Без передачи данных"
+   },
+   "openPlayer": {
+      "message": "Открыть плеер"
+   },
+   "playPause": {
+      "message": "Воспроизведение или пауза (Пробел)"
+   },
+   "playbackSpeed": {
+      "message": "Скорость воспроизведения"
+   },
+   "popupTagline": {
+      "message": "Отдельный плеер для просмотра без отвлечений"
+   },
+   "privacy": {
+      "message": "Конфиденциальность"
+   },
+   "privacyAria": {
+      "message": "Конфиденциальность"
+   },
+   "resetView": {
+      "message": "Сбросить поворот и масштаб (0)"
+   },
+   "rotate": {
+      "message": "Повернуть на 90° (R)"
+   },
+   "statusNativePip": {
+      "message": "Защищенное видео открыто в режиме «картинка в картинке» Chrome"
+   },
+   "statusOpening": {
+      "message": "Открытие плеера…"
+   },
+   "statusPlayingFound": {
+      "message": "Найдено воспроизводимое видео"
+   },
+   "statusSearching": {
+      "message": "Поиск видео…"
+   },
+   "statusUserGesture": {
+      "message": "Нажмите синюю кнопку вверху страницы один раз"
+   },
+   "statusVideoFound": {
+      "message": "Видео найдено"
+   },
+   "tenSeconds": {
+      "message": "10 с"
+   },
+   "thirtySeconds": {
+      "message": "30 с"
+   },
+   "timeline": {
+      "message": "Позиция воспроизведения"
+   },
+   "videoArea": {
+      "message": "Область видео"
+   },
+   "volume": {
+      "message": "Громкость"
+   },
+   "windowLarger": {
+      "message": "Увеличить окно"
+   },
+   "windowSmaller": {
+      "message": "Уменьшить окно"
+   },
+   "zoomIn": {
+      "message": "Увеличить (+)"
+   },
+   "zoomOut": {
+      "message": "Уменьшить (-)"
+   }
+}

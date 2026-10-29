@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "वेब वीडियो को अलग विंडो में घुमाव, ज़ूम, फ़ुलस्क्रीन और कीबोर्ड से सीक, आवाज़ व गति नियंत्रण के साथ खोलें।"
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "फ़िट करें"
+   },
+   "fiveSeconds": {
+      "message": "5 सेकंड"
+   },
+   "fullscreen": {
+      "message": "फ़ुलस्क्रीन (F)"
+   },
+   "localProcessing": {
+      "message": "डिवाइस पर प्रोसेसिंग"
+   },
+   "mute": {
+      "message": "म्यूट (M)"
+   },
+   "noTransmission": {
+      "message": "कोई प्रेषण नहीं"
+   },
+   "openPlayer": {
+      "message": "प्लेयर खोलें"
+   },
+   "playPause": {
+      "message": "चलाएँ या रोकें (Space)"
+   },
+   "playbackSpeed": {
+      "message": "प्लेबैक गति"
+   },
+   "popupTagline": {
+      "message": "ध्यान से देखने के लिए स्वतंत्र प्लेयर"
+   },
+   "privacy": {
+      "message": "गोपनीयता"
+   },
+   "privacyAria": {
+      "message": "गोपनीयता व्यवहार"
+   },
+   "resetView": {
+      "message": "घुमाव और ज़ूम रीसेट करें (0)"
+   },
+   "rotate": {
+      "message": "90° घुमाएँ (R)"
+   },
+   "statusNativePip": {
+      "message": "सुरक्षित वीडियो Chrome पिक्चर-इन-पिक्चर में खोला गया"
+   },
+   "statusOpening": {
+      "message": "प्लेयर खुल रहा है…"
+   },
+   "statusPlayingFound": {
+      "message": "चलता वीडियो मिला"
+   },
+   "statusSearching": {
+      "message": "वीडियो खोजा जा रहा है…"
+   },
+   "statusUserGesture": {
+      "message": "पेज के ऊपर नीला बटन एक बार दबाएँ"
+   },
+   "statusVideoFound": {
+      "message": "वीडियो मिला"
+   },
+   "tenSeconds": {
+      "message": "10 सेकंड"
+   },
+   "thirtySeconds": {
+      "message": "30 सेकंड"
+   },
+   "timeline": {
+      "message": "प्लेबैक स्थिति"
+   },
+   "videoArea": {
+      "message": "वीडियो क्षेत्र"
+   },
+   "volume": {
+      "message": "आवाज़"
+   },
+   "windowLarger": {
+      "message": "विंडो बड़ी करें"
+   },
+   "windowSmaller": {
+      "message": "विंडो छोटी करें"
+   },
+   "zoomIn": {
+      "message": "ज़ूम इन (+)"
+   },
+   "zoomOut": {
+      "message": "ज़ूम आउट (-)"
+   }
+}

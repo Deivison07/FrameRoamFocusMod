@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "Web動画を独立ウィンドウで開き、回転、ズーム、全画面表示、キーボードでシーク・音量・再生速度を操作できます。"
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "フィット"
+   },
+   "fiveSeconds": {
+      "message": "5秒"
+   },
+   "fullscreen": {
+      "message": "全画面 (F)"
+   },
+   "localProcessing": {
+      "message": "端末内で処理"
+   },
+   "mute": {
+      "message": "ミュート (M)"
+   },
+   "noTransmission": {
+      "message": "送信なし"
+   },
+   "openPlayer": {
+      "message": "プレーヤーを開く"
+   },
+   "playPause": {
+      "message": "再生または一時停止 (Space)"
+   },
+   "playbackSpeed": {
+      "message": "再生速度"
+   },
+   "popupTagline": {
+      "message": "集中のための独立プレーヤー"
+   },
+   "privacy": {
+      "message": "プライバシー"
+   },
+   "privacyAria": {
+      "message": "プライバシーの取り扱い"
+   },
+   "resetView": {
+      "message": "回転とズームをリセット (0)"
+   },
+   "rotate": {
+      "message": "90°回転 (R)"
+   },
+   "statusNativePip": {
+      "message": "保護された動画をChromeのピクチャー イン ピクチャーで開きました"
+   },
+   "statusOpening": {
+      "message": "プレーヤーを開いています…"
+   },
+   "statusPlayingFound": {
+      "message": "再生中の動画が見つかりました"
+   },
+   "statusSearching": {
+      "message": "動画を検索しています…"
+   },
+   "statusUserGesture": {
+      "message": "ページ上部の青いボタンを一度押してください"
+   },
+   "statusVideoFound": {
+      "message": "動画が見つかりました"
+   },
+   "tenSeconds": {
+      "message": "10秒"
+   },
+   "thirtySeconds": {
+      "message": "30秒"
+   },
+   "timeline": {
+      "message": "再生位置"
+   },
+   "videoArea": {
+      "message": "動画領域"
+   },
+   "volume": {
+      "message": "音量"
+   },
+   "windowLarger": {
+      "message": "ウィンドウを大きくする"
+   },
+   "windowSmaller": {
+      "message": "ウィンドウを小さくする"
+   },
+   "zoomIn": {
+      "message": "拡大 (+)"
+   },
+   "zoomOut": {
+      "message": "縮小 (-)"
+   }
+}

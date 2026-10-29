@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "Apri i video web in una finestra indipendente con rotazione, zoom, schermo intero e comandi da tastiera."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "Adatta"
+   },
+   "fiveSeconds": {
+      "message": "5 s"
+   },
+   "fullscreen": {
+      "message": "Schermo intero (F)"
+   },
+   "localProcessing": {
+      "message": "Elaborazione sul dispositivo"
+   },
+   "mute": {
+      "message": "Disattiva audio (M)"
+   },
+   "noTransmission": {
+      "message": "Nessuna trasmissione"
+   },
+   "openPlayer": {
+      "message": "Apri player"
+   },
+   "playPause": {
+      "message": "Riproduci o pausa (Spazio)"
+   },
+   "playbackSpeed": {
+      "message": "Velocità di riproduzione"
+   },
+   "popupTagline": {
+      "message": "Player indipendente per concentrarti"
+   },
+   "privacy": {
+      "message": "Privacy"
+   },
+   "privacyAria": {
+      "message": "Informazioni sulla privacy"
+   },
+   "resetView": {
+      "message": "Reimposta rotazione e zoom (0)"
+   },
+   "rotate": {
+      "message": "Ruota di 90° (R)"
+   },
+   "statusNativePip": {
+      "message": "Il video protetto è stato aperto in Picture-in-Picture di Chrome"
+   },
+   "statusOpening": {
+      "message": "Apertura del player…"
+   },
+   "statusPlayingFound": {
+      "message": "Trovato il video in riproduzione"
+   },
+   "statusSearching": {
+      "message": "Ricerca del video…"
+   },
+   "statusUserGesture": {
+      "message": "Seleziona una volta il pulsante blu in alto nella pagina"
+   },
+   "statusVideoFound": {
+      "message": "Video trovato"
+   },
+   "tenSeconds": {
+      "message": "10 s"
+   },
+   "thirtySeconds": {
+      "message": "30 s"
+   },
+   "timeline": {
+      "message": "Posizione di riproduzione"
+   },
+   "videoArea": {
+      "message": "Area video"
+   },
+   "volume": {
+      "message": "Volume"
+   },
+   "windowLarger": {
+      "message": "Ingrandisci finestra"
+   },
+   "windowSmaller": {
+      "message": "Riduci finestra"
+   },
+   "zoomIn": {
+      "message": "Aumenta zoom (+)"
+   },
+   "zoomOut": {
+      "message": "Riduci zoom (-)"
+   }
+}

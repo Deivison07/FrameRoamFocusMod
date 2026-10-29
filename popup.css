@@ -1,0 +1,69 @@
+.open-button {
+  display: flex;
+  width: 100%;
+  min-height: 46px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+  border: 1px solid #8f90ff;
+  border-radius: 12px;
+  color: white;
+  background: linear-gradient(135deg, #6f70f5, #5859dc);
+  box-shadow: 0 10px 26px #5556d72e;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 750;
+  cursor: pointer;
+  transition: transform 0.16s, filter 0.16s;
+}
+
+.open-button:hover:not(:disabled) { filter: brightness(1.08); transform: translateY(-1px); }
+.open-button:active:not(:disabled) { transform: translateY(0); }
+.open-button:focus-visible { outline: 2px solid #b9baff; outline-offset: 3px; }
+.open-button:disabled { border-color: #ffffff12; color: #777783; background: #23232b; box-shadow: none; cursor: wait; }
+
+.close-button {
+  display: flex;
+  width: 100%;
+  min-height: 40px;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 8px;
+  padding: 0 16px;
+  border: 1px solid #ffffff1f;
+  border-radius: 12px;
+  color: #d8d8e2;
+  background: #ffffff08;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 650;
+  cursor: pointer;
+  transition: background 0.16s, border-color 0.16s, color 0.16s;
+}
+
+.close-button:hover:not(:disabled) { color: white; border-color: #ff6d7a66; background: #ff6d7a1a; }
+.close-button:focus-visible { outline: 2px solid #b9baff; outline-offset: 3px; }
+.close-button:disabled { color: #777783; cursor: wait; }
+
+.settings-button {
+  display: grid;
+  width: 32px;
+  height: 32px;
+  flex: none;
+  margin-left: auto;
+  padding: 0;
+  place-items: center;
+  border: 1px solid #ffffff1f;
+  border-radius: 10px;
+  color: #b8b8c5;
+  background: #ffffff08;
+  cursor: pointer;
+  transition: color 0.16s, background 0.16s;
+}
+
+.settings-button:hover { color: white; background: #ffffff14; }
+.settings-button:focus-visible { outline: 2px solid #b9baff; outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  .open-button, .close-button, .settings-button { transition: none; }
+}

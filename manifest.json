@@ -1,0 +1,52 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "icons/icon16.png",
+         "32": "icons/icon32.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extensionName__"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [
+      {
+         "all_frames": true,
+         "js": [
+            "shared/settings.js",
+            "player.js",
+            "youtube.js"
+         ],
+         "matches": [
+            "https://www.youtube.com/*"
+         ],
+         "run_at": "document_idle"
+      }
+   ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'none'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+   },
+   "manifest_version": 3,
+   "minimum_chrome_version": "102",
+   "name": "__MSG_extensionName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [
+      "activeTab",
+      "scripting",
+      "storage",
+      "system.display"
+   ],
+   "version": "2.1.0"
+}

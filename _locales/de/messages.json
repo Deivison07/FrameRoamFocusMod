@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "Webvideos im eigenen Fenster mit Drehung, Zoom, Vollbild sowie Tastatursteuerung für Suche, Lautstärke und Tempo."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "Anpassen"
+   },
+   "fiveSeconds": {
+      "message": "5 Sek."
+   },
+   "fullscreen": {
+      "message": "Vollbild (F)"
+   },
+   "localProcessing": {
+      "message": "Verarbeitung auf dem Gerät"
+   },
+   "mute": {
+      "message": "Stummschalten (M)"
+   },
+   "noTransmission": {
+      "message": "Keine Übertragung"
+   },
+   "openPlayer": {
+      "message": "Player öffnen"
+   },
+   "playPause": {
+      "message": "Wiedergabe oder Pause (Leertaste)"
+   },
+   "playbackSpeed": {
+      "message": "Wiedergabegeschwindigkeit"
+   },
+   "popupTagline": {
+      "message": "Eigenständiger Player für konzentriertes Sehen"
+   },
+   "privacy": {
+      "message": "Datenschutz"
+   },
+   "privacyAria": {
+      "message": "Datenschutz"
+   },
+   "resetView": {
+      "message": "Drehung und Zoom zurücksetzen (0)"
+   },
+   "rotate": {
+      "message": "Um 90° drehen (R)"
+   },
+   "statusNativePip": {
+      "message": "Geschütztes Video wurde im Chrome-Bild-in-Bild geöffnet"
+   },
+   "statusOpening": {
+      "message": "Player wird geöffnet…"
+   },
+   "statusPlayingFound": {
+      "message": "Laufendes Video gefunden"
+   },
+   "statusSearching": {
+      "message": "Video wird gesucht…"
+   },
+   "statusUserGesture": {
+      "message": "Klicke einmal auf die blaue Schaltfläche oben auf der Seite"
+   },
+   "statusVideoFound": {
+      "message": "Video gefunden"
+   },
+   "tenSeconds": {
+      "message": "10 Sek."
+   },
+   "thirtySeconds": {
+      "message": "30 Sek."
+   },
+   "timeline": {
+      "message": "Wiedergabeposition"
+   },
+   "videoArea": {
+      "message": "Videobereich"
+   },
+   "volume": {
+      "message": "Lautstärke"
+   },
+   "windowLarger": {
+      "message": "Fenster vergrößern"
+   },
+   "windowSmaller": {
+      "message": "Fenster verkleinern"
+   },
+   "zoomIn": {
+      "message": "Vergrößern (+)"
+   },
+   "zoomOut": {
+      "message": "Verkleinern (-)"
+   }
+}

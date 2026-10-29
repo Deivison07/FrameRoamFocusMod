@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "Ouvrez les vidéos web dans une fenêtre indépendante avec rotation, zoom, plein écran et commandes au clavier."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "Ajuster"
+   },
+   "fiveSeconds": {
+      "message": "5 s"
+   },
+   "fullscreen": {
+      "message": "Plein écran (F)"
+   },
+   "localProcessing": {
+      "message": "Traitement sur l’appareil"
+   },
+   "mute": {
+      "message": "Couper le son (M)"
+   },
+   "noTransmission": {
+      "message": "Aucune transmission"
+   },
+   "openPlayer": {
+      "message": "Ouvrir le lecteur"
+   },
+   "playPause": {
+      "message": "Lire ou mettre en pause (Espace)"
+   },
+   "playbackSpeed": {
+      "message": "Vitesse de lecture"
+   },
+   "popupTagline": {
+      "message": "Lecteur indépendant pour rester concentré"
+   },
+   "privacy": {
+      "message": "Confidentialité"
+   },
+   "privacyAria": {
+      "message": "Confidentialité"
+   },
+   "resetView": {
+      "message": "Réinitialiser rotation et zoom (0)"
+   },
+   "rotate": {
+      "message": "Rotation de 90° (R)"
+   },
+   "statusNativePip": {
+      "message": "La vidéo protégée a été ouverte en mode Picture-in-Picture de Chrome"
+   },
+   "statusOpening": {
+      "message": "Ouverture du lecteur…"
+   },
+   "statusPlayingFound": {
+      "message": "Vidéo en cours trouvée"
+   },
+   "statusSearching": {
+      "message": "Recherche d’une vidéo…"
+   },
+   "statusUserGesture": {
+      "message": "Cliquez une fois sur le bouton bleu en haut de la page"
+   },
+   "statusVideoFound": {
+      "message": "Vidéo trouvée"
+   },
+   "tenSeconds": {
+      "message": "10 s"
+   },
+   "thirtySeconds": {
+      "message": "30 s"
+   },
+   "timeline": {
+      "message": "Position de lecture"
+   },
+   "videoArea": {
+      "message": "Zone vidéo"
+   },
+   "volume": {
+      "message": "Volume"
+   },
+   "windowLarger": {
+      "message": "Agrandir la fenêtre"
+   },
+   "windowSmaller": {
+      "message": "Réduire la fenêtre"
+   },
+   "zoomIn": {
+      "message": "Agrandir (+)"
+   },
+   "zoomOut": {
+      "message": "Réduire (-)"
+   }
+}

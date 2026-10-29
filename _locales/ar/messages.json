@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "افتح فيديوهات الويب في نافذة مستقلة مع التدوير والتكبير وملء الشاشة والتحكم بالبحث والصوت والسرعة من لوحة المفاتيح."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "ملاءمة"
+   },
+   "fiveSeconds": {
+      "message": "5 ثوانٍ"
+   },
+   "fullscreen": {
+      "message": "ملء الشاشة (F)"
+   },
+   "localProcessing": {
+      "message": "المعالجة على الجهاز"
+   },
+   "mute": {
+      "message": "كتم الصوت (M)"
+   },
+   "noTransmission": {
+      "message": "لا إرسال للبيانات"
+   },
+   "openPlayer": {
+      "message": "فتح المشغل"
+   },
+   "playPause": {
+      "message": "تشغيل أو إيقاف مؤقت (مسافة)"
+   },
+   "playbackSpeed": {
+      "message": "سرعة التشغيل"
+   },
+   "popupTagline": {
+      "message": "مشغل مستقل للمشاهدة بتركيز"
+   },
+   "privacy": {
+      "message": "الخصوصية"
+   },
+   "privacyAria": {
+      "message": "ممارسات الخصوصية"
+   },
+   "resetView": {
+      "message": "إعادة ضبط التدوير والتكبير (0)"
+   },
+   "rotate": {
+      "message": "تدوير 90° (R)"
+   },
+   "statusNativePip": {
+      "message": "تم فتح الفيديو المحمي بوضع صورة داخل صورة في Chrome"
+   },
+   "statusOpening": {
+      "message": "جارٍ فتح المشغل…"
+   },
+   "statusPlayingFound": {
+      "message": "تم العثور على الفيديو الجاري تشغيله"
+   },
+   "statusSearching": {
+      "message": "جارٍ البحث عن فيديو…"
+   },
+   "statusUserGesture": {
+      "message": "اضغط الزر الأزرق أعلى الصفحة مرة واحدة"
+   },
+   "statusVideoFound": {
+      "message": "تم العثور على فيديو"
+   },
+   "tenSeconds": {
+      "message": "10 ثوانٍ"
+   },
+   "thirtySeconds": {
+      "message": "30 ثانية"
+   },
+   "timeline": {
+      "message": "موضع التشغيل"
+   },
+   "videoArea": {
+      "message": "منطقة الفيديو"
+   },
+   "volume": {
+      "message": "مستوى الصوت"
+   },
+   "windowLarger": {
+      "message": "تكبير النافذة"
+   },
+   "windowSmaller": {
+      "message": "تصغير النافذة"
+   },
+   "zoomIn": {
+      "message": "تكبير (+)"
+   },
+   "zoomOut": {
+      "message": "تصغير (-)"
+   }
+}

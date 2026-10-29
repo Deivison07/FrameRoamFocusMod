@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FrameRoam Focus</title>
+    <link rel="stylesheet" href="shared/popup-base.css">
+    <link rel="stylesheet" href="popup.css">
+  </head>
+  <body>
+    <main class="popup">
+      <header class="brand">
+        <span class="mark" aria-hidden="true"><span></span></span>
+        <span>
+          <strong>FrameRoam Focus</strong>
+          <small data-i18n="popupTagline">Independent player for focus</small>
+        </span>
+        <button id="settings" class="settings-button" type="button" data-i18n-title="optionsTitle" data-i18n-aria-label="optionsTitle">
+          <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <path d="M4 7h9M19 7h1M4 17h3M13 17h7"/>
+            <circle cx="16" cy="7" r="2.5"/>
+            <circle cx="10" cy="17" r="2.5"/>
+          </svg>
+        </button>
+      </header>
+
+      <section class="status-card">
+        <span class="status-dot" aria-hidden="true"></span>
+        <p id="status" aria-live="polite" data-i18n="statusSearching">Finding a video…</p>
+      </section>
+
+      <button id="open" class="open-button" disabled>
+        <span data-i18n="openPlayer">Open player</span>
+        <span aria-hidden="true">↗</span>
+      </button>
+
+      <button id="close" class="close-button" type="button" hidden>
+        <span data-i18n="closePlayer">Close player</span>
+        <span aria-hidden="true">✕</span>
+      </button>
+
+      <div class="privacy" aria-label="Privacy practices" data-i18n-aria-label="privacyAria">
+        <span data-i18n="localProcessing">On-device</span>
+        <span data-i18n="noTransmission">No transmission</span>
+        <a href="https://frameroam.workningen.com/privacy" target="_blank" data-i18n="privacy">Privacy</a>
+      </div>
+
+      <footer>
+        <kbd>←</kbd><kbd>→</kbd><span data-i18n="fiveSeconds">5 sec</span>
+        <i></i>
+        <kbd>Ctrl</kbd><span data-i18n="tenSeconds">10 sec</span>
+        <i></i>
+        <kbd>Ctrl</kbd><kbd>Shift</kbd><span data-i18n="thirtySeconds">30 sec</span>
+      </footer>
+    </main>
+    <script src="shared/find-video.js"></script>
+    <script src="popup.js"></script>
+  </body>
+</html>

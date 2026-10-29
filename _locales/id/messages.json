@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "Buka video web di jendela mandiri dengan rotasi, zoom, layar penuh, serta kontrol keyboard untuk pencarian, volume, dan kecepatan."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "Sesuaikan"
+   },
+   "fiveSeconds": {
+      "message": "5 dtk"
+   },
+   "fullscreen": {
+      "message": "Layar penuh (F)"
+   },
+   "localProcessing": {
+      "message": "Diproses di perangkat"
+   },
+   "mute": {
+      "message": "Bisukan (M)"
+   },
+   "noTransmission": {
+      "message": "Tanpa pengiriman"
+   },
+   "openPlayer": {
+      "message": "Buka pemutar"
+   },
+   "playPause": {
+      "message": "Putar atau jeda (Spasi)"
+   },
+   "playbackSpeed": {
+      "message": "Kecepatan pemutaran"
+   },
+   "popupTagline": {
+      "message": "Pemutar mandiri untuk tetap fokus"
+   },
+   "privacy": {
+      "message": "Privasi"
+   },
+   "privacyAria": {
+      "message": "Praktik privasi"
+   },
+   "resetView": {
+      "message": "Atur ulang putaran dan zoom (0)"
+   },
+   "rotate": {
+      "message": "Putar 90° (R)"
+   },
+   "statusNativePip": {
+      "message": "Video terlindungi dibuka dengan Picture-in-Picture Chrome"
+   },
+   "statusOpening": {
+      "message": "Membuka pemutar…"
+   },
+   "statusPlayingFound": {
+      "message": "Video yang diputar ditemukan"
+   },
+   "statusSearching": {
+      "message": "Mencari video…"
+   },
+   "statusUserGesture": {
+      "message": "Pilih tombol biru di bagian atas halaman satu kali"
+   },
+   "statusVideoFound": {
+      "message": "Video ditemukan"
+   },
+   "tenSeconds": {
+      "message": "10 dtk"
+   },
+   "thirtySeconds": {
+      "message": "30 dtk"
+   },
+   "timeline": {
+      "message": "Posisi pemutaran"
+   },
+   "videoArea": {
+      "message": "Area video"
+   },
+   "volume": {
+      "message": "Volume"
+   },
+   "windowLarger": {
+      "message": "Perbesar jendela"
+   },
+   "windowSmaller": {
+      "message": "Perkecil jendela"
+   },
+   "zoomIn": {
+      "message": "Perbesar (+)"
+   },
+   "zoomOut": {
+      "message": "Perkecil (-)"
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "Web videolarını döndürme, yakınlaştırma, tam ekran ve klavye kontrolleriyle bağımsız bir pencerede açın."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "Sığdır"
+   },
+   "fiveSeconds": {
+      "message": "5 sn"
+   },
+   "fullscreen": {
+      "message": "Tam ekran (F)"
+   },
+   "localProcessing": {
+      "message": "Cihazda işleme"
+   },
+   "mute": {
+      "message": "Sesi kapat (M)"
+   },
+   "noTransmission": {
+      "message": "Aktarım yok"
+   },
+   "openPlayer": {
+      "message": "Oynatıcıyı aç"
+   },
+   "playPause": {
+      "message": "Oynat veya duraklat (Boşluk)"
+   },
+   "playbackSpeed": {
+      "message": "Oynatma hızı"
+   },
+   "popupTagline": {
+      "message": "Odaklanmak için bağımsız oynatıcı"
+   },
+   "privacy": {
+      "message": "Gizlilik"
+   },
+   "privacyAria": {
+      "message": "Gizlilik uygulamaları"
+   },
+   "resetView": {
+      "message": "Döndürme ve yakınlaştırmayı sıfırla (0)"
+   },
+   "rotate": {
+      "message": "90° döndür (R)"
+   },
+   "statusNativePip": {
+      "message": "Korumalı video Chrome Pencere İçinde Pencere ile açıldı"
+   },
+   "statusOpening": {
+      "message": "Oynatıcı açılıyor…"
+   },
+   "statusPlayingFound": {
+      "message": "Oynatılan video bulundu"
+   },
+   "statusSearching": {
+      "message": "Video aranıyor…"
+   },
+   "statusUserGesture": {
+      "message": "Sayfanın üstündeki mavi düğmeye bir kez basın"
+   },
+   "statusVideoFound": {
+      "message": "Video bulundu"
+   },
+   "tenSeconds": {
+      "message": "10 sn"
+   },
+   "thirtySeconds": {
+      "message": "30 sn"
+   },
+   "timeline": {
+      "message": "Oynatma konumu"
+   },
+   "videoArea": {
+      "message": "Video alanı"
+   },
+   "volume": {
+      "message": "Ses düzeyi"
+   },
+   "windowLarger": {
+      "message": "Pencereyi büyüt"
+   },
+   "windowSmaller": {
+      "message": "Pencereyi küçült"
+   },
+   "zoomIn": {
+      "message": "Yakınlaştır (+)"
+   },
+   "zoomOut": {
+      "message": "Uzaklaştır (-)"
+   }
+}

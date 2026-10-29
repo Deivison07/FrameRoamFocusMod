@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "웹 동영상을 회전·확대·전체화면 가능한 독립 창으로 열고 키보드로 탐색·음량·재생속도를 제어하세요."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "맞춤"
+   },
+   "fiveSeconds": {
+      "message": "5초"
+   },
+   "fullscreen": {
+      "message": "전체화면 (F)"
+   },
+   "localProcessing": {
+      "message": "기기 내 처리"
+   },
+   "mute": {
+      "message": "음소거 (M)"
+   },
+   "noTransmission": {
+      "message": "전송 없음"
+   },
+   "openPlayer": {
+      "message": "플레이어 열기"
+   },
+   "playPause": {
+      "message": "재생 또는 일시정지 (Space)"
+   },
+   "playbackSpeed": {
+      "message": "재생속도"
+   },
+   "popupTagline": {
+      "message": "집중을 위한 독립 플레이어"
+   },
+   "privacy": {
+      "message": "개인정보"
+   },
+   "privacyAria": {
+      "message": "개인정보 처리 방식"
+   },
+   "resetView": {
+      "message": "회전과 확대 초기화 (0)"
+   },
+   "rotate": {
+      "message": "90도 회전 (R)"
+   },
+   "statusNativePip": {
+      "message": "보호된 영상을 Chrome 기본 PiP로 열었습니다"
+   },
+   "statusOpening": {
+      "message": "플레이어를 여는 중입니다…"
+   },
+   "statusPlayingFound": {
+      "message": "재생 중인 영상을 찾았습니다"
+   },
+   "statusSearching": {
+      "message": "영상을 찾는 중입니다…"
+   },
+   "statusUserGesture": {
+      "message": "페이지 상단의 파란 버튼을 한 번 눌러 주세요"
+   },
+   "statusVideoFound": {
+      "message": "영상을 찾았습니다"
+   },
+   "tenSeconds": {
+      "message": "10초"
+   },
+   "thirtySeconds": {
+      "message": "30초"
+   },
+   "timeline": {
+      "message": "재생 위치"
+   },
+   "videoArea": {
+      "message": "영상 영역"
+   },
+   "volume": {
+      "message": "음량"
+   },
+   "windowLarger": {
+      "message": "창 크기 늘리기"
+   },
+   "windowSmaller": {
+      "message": "창 크기 줄이기"
+   },
+   "zoomIn": {
+      "message": "영상 확대 (+)"
+   },
+   "zoomOut": {
+      "message": "영상 축소 (-)"
+   }
+}

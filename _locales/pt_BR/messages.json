@@ -1,0 +1,239 @@
+{
+   "closePlayer": {
+      "message": "Fechar player"
+   },
+   "displayMissing": {
+      "message": "Monitor salvo (desconectado)"
+   },
+   "displayOther": {
+      "message": "Outro monitor (automático)"
+   },
+   "displayPrimary": {
+      "message": "principal"
+   },
+   "displaySame": {
+      "message": "Mesmo monitor do navegador"
+   },
+   "errorCaptureUnsupported": {
+      "message": "A captura de vídeo não é compatível."
+   },
+   "errorNoActiveTab": {
+      "message": "Não foi possível encontrar a aba ativa."
+   },
+   "errorNoVideo": {
+      "message": "Nenhum vídeo reproduzível foi encontrado nesta aba."
+   },
+   "errorOpenFailed": {
+      "message": "Não foi possível abrir o player."
+   },
+   "errorPopupBlocked": {
+      "message": "A janela pop-up foi bloqueada."
+   },
+   "errorProtectedPipUnavailable": {
+      "message": "Este vídeo protegido não pode usar o Picture-in-Picture do Chrome."
+   },
+   "errorRestricted": {
+      "message": "O Chrome restringe o acesso a esta página."
+   },
+   "errorVideoGone": {
+      "message": "O vídeo não está mais disponível. Atualize a página e tente novamente."
+   },
+   "extensionDescription": {
+      "message": "Abra vídeos da web em uma janela independente com rotação, zoom, tela cheia e controles pelo teclado."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "Ajustar"
+   },
+   "fiveSeconds": {
+      "message": "5 s"
+   },
+   "fullscreen": {
+      "message": "Tela cheia (F)"
+   },
+   "fullscreenUnavailable": {
+      "message": "Tela cheia indisponível."
+   },
+   "localProcessing": {
+      "message": "Processamento local"
+   },
+   "mirrorPlaybackFailed": {
+      "message": "Não foi possível iniciar a reprodução espelhada."
+   },
+   "mute": {
+      "message": "Silenciar (M)"
+   },
+   "muted": {
+      "message": "Sem som"
+   },
+   "noTransmission": {
+      "message": "Sem transmissão"
+   },
+   "openPlayer": {
+      "message": "Abrir player"
+   },
+   "optionsBehaviorTitle": {
+      "message": "Comportamento"
+   },
+   "optionsCloseOnEnd": {
+      "message": "Fechar o player quando o vídeo terminar"
+   },
+   "optionsFollowVideo": {
+      "message": "Ao trocar de vídeo, reabrir o player com o vídeo que está tocando"
+   },
+   "optionsForget": {
+      "message": "Esquecer posição salva"
+   },
+   "optionsFullscreen": {
+      "message": "Abrir em tela cheia no monitor escolhido"
+   },
+   "optionsHeight": {
+      "message": "Altura (px)"
+   },
+   "optionsMonitor": {
+      "message": "Monitor"
+   },
+   "optionsNoSavedPosition": {
+      "message": "Nenhuma posição salva ainda."
+   },
+   "optionsPosition": {
+      "message": "Posição na tela"
+   },
+   "optionsRememberHint": {
+      "message": "O player abre onde você o moveu ou redimensionou pela última vez. Na primeira vez, usa o monitor e o tamanho definidos aqui."
+   },
+   "optionsSaved": {
+      "message": "Salvo"
+   },
+   "optionsSavedPosition": {
+      "message": "Posição salva"
+   },
+   "optionsTitle": {
+      "message": "Configurações"
+   },
+   "optionsWhereTitle": {
+      "message": "Onde o player abre"
+   },
+   "optionsWidth": {
+      "message": "Largura (px)"
+   },
+   "optionsX": {
+      "message": "X (px a partir da borda esquerda do monitor)"
+   },
+   "optionsY": {
+      "message": "Y (px a partir do topo do monitor)"
+   },
+   "optionsYoutubeButton": {
+      "message": "Mostrar o botão de segunda tela na barra do player do YouTube"
+   },
+   "playPause": {
+      "message": "Reproduzir ou pausar (Espaço)"
+   },
+   "playbackSpeed": {
+      "message": "Velocidade"
+   },
+   "popupTagline": {
+      "message": "Player independente para manter o foco"
+   },
+   "positionBottomLeft": {
+      "message": "Canto inferior esquerdo"
+   },
+   "positionBottomRight": {
+      "message": "Canto inferior direito"
+   },
+   "positionCenter": {
+      "message": "Centro"
+   },
+   "positionCustom": {
+      "message": "Personalizada (X, Y)"
+   },
+   "positionRemember": {
+      "message": "Lembrar onde deixei por último"
+   },
+   "positionTopLeft": {
+      "message": "Canto superior esquerdo"
+   },
+   "positionTopRight": {
+      "message": "Canto superior direito"
+   },
+   "privacy": {
+      "message": "Privacidade"
+   },
+   "privacyAria": {
+      "message": "Práticas de privacidade"
+   },
+   "resetView": {
+      "message": "Redefinir rotação e zoom (0)"
+   },
+   "retry": {
+      "message": "Tentar novamente"
+   },
+   "rotate": {
+      "message": "Girar 90° (R)"
+   },
+   "secondsUnit": {
+      "message": "s"
+   },
+   "soundOn": {
+      "message": "Som ativado"
+   },
+   "startInOriginalTab": {
+      "message": "Inicie a reprodução na aba original."
+   },
+   "statusNativePip": {
+      "message": "O vídeo protegido foi aberto no Picture-in-Picture do Chrome"
+   },
+   "statusOpening": {
+      "message": "Abrindo o player…"
+   },
+   "statusPlayingFound": {
+      "message": "Vídeo em reprodução encontrado"
+   },
+   "statusSearching": {
+      "message": "Procurando um vídeo…"
+   },
+   "statusUserGesture": {
+      "message": "Clique uma vez no botão azul no topo da página"
+   },
+   "statusVideoFound": {
+      "message": "Vídeo encontrado"
+   },
+   "tenSeconds": {
+      "message": "10 s"
+   },
+   "thirtySeconds": {
+      "message": "30 s"
+   },
+   "timeline": {
+      "message": "Posição de reprodução"
+   },
+   "video": {
+      "message": "Vídeo"
+   },
+   "videoArea": {
+      "message": "Área do vídeo"
+   },
+   "volume": {
+      "message": "Volume"
+   },
+   "windowLarger": {
+      "message": "Aumentar janela"
+   },
+   "windowSmaller": {
+      "message": "Diminuir janela"
+   },
+   "youtubeButtonClose": {
+      "message": "Fechar segunda tela (FrameRoam Focus)"
+   },
+   "youtubeButtonOpen": {
+      "message": "Abrir na segunda tela (FrameRoam Focus)"
+   },
+   "zoomIn": {
+      "message": "Aumentar zoom (+)"
+   },
+   "zoomOut": {
+      "message": "Reduzir zoom (-)"
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "在獨立視窗播放網頁影片，支援旋轉、縮放、全螢幕及鍵盤快轉、音量與播放速度控制。"
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "符合畫面"
+   },
+   "fiveSeconds": {
+      "message": "5秒"
+   },
+   "fullscreen": {
+      "message": "全螢幕 (F)"
+   },
+   "localProcessing": {
+      "message": "僅在裝置上處理"
+   },
+   "mute": {
+      "message": "靜音 (M)"
+   },
+   "noTransmission": {
+      "message": "不傳輸"
+   },
+   "openPlayer": {
+      "message": "開啟播放器"
+   },
+   "playPause": {
+      "message": "播放或暫停 (Space)"
+   },
+   "playbackSpeed": {
+      "message": "播放速度"
+   },
+   "popupTagline": {
+      "message": "專注觀看的獨立播放器"
+   },
+   "privacy": {
+      "message": "隱私"
+   },
+   "privacyAria": {
+      "message": "隱私處理方式"
+   },
+   "resetView": {
+      "message": "重設旋轉與縮放 (0)"
+   },
+   "rotate": {
+      "message": "旋轉90° (R)"
+   },
+   "statusNativePip": {
+      "message": "受保護影片已使用Chrome子母畫面開啟"
+   },
+   "statusOpening": {
+      "message": "正在開啟播放器…"
+   },
+   "statusPlayingFound": {
+      "message": "已找到播放中的影片"
+   },
+   "statusSearching": {
+      "message": "正在尋找影片…"
+   },
+   "statusUserGesture": {
+      "message": "請點一下頁面頂端的藍色按鈕"
+   },
+   "statusVideoFound": {
+      "message": "已找到影片"
+   },
+   "tenSeconds": {
+      "message": "10秒"
+   },
+   "thirtySeconds": {
+      "message": "30秒"
+   },
+   "timeline": {
+      "message": "播放位置"
+   },
+   "videoArea": {
+      "message": "影片區域"
+   },
+   "volume": {
+      "message": "音量"
+   },
+   "windowLarger": {
+      "message": "放大視窗"
+   },
+   "windowSmaller": {
+      "message": "縮小視窗"
+   },
+   "zoomIn": {
+      "message": "放大 (+)"
+   },
+   "zoomOut": {
+      "message": "縮小 (-)"
+   }
+}

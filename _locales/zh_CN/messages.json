@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "在独立窗口中播放网页视频，支持旋转、缩放、全屏以及键盘快进、音量和播放速度控制。"
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "适应屏幕"
+   },
+   "fiveSeconds": {
+      "message": "5秒"
+   },
+   "fullscreen": {
+      "message": "全屏 (F)"
+   },
+   "localProcessing": {
+      "message": "仅在设备上处理"
+   },
+   "mute": {
+      "message": "静音 (M)"
+   },
+   "noTransmission": {
+      "message": "不传输"
+   },
+   "openPlayer": {
+      "message": "打开播放器"
+   },
+   "playPause": {
+      "message": "播放或暂停 (Space)"
+   },
+   "playbackSpeed": {
+      "message": "播放速度"
+   },
+   "popupTagline": {
+      "message": "专注观看的独立播放器"
+   },
+   "privacy": {
+      "message": "隐私"
+   },
+   "privacyAria": {
+      "message": "隐私处理方式"
+   },
+   "resetView": {
+      "message": "重置旋转和缩放 (0)"
+   },
+   "rotate": {
+      "message": "旋转90° (R)"
+   },
+   "statusNativePip": {
+      "message": "受保护视频已使用Chrome画中画打开"
+   },
+   "statusOpening": {
+      "message": "正在打开播放器…"
+   },
+   "statusPlayingFound": {
+      "message": "已找到正在播放的视频"
+   },
+   "statusSearching": {
+      "message": "正在查找视频…"
+   },
+   "statusUserGesture": {
+      "message": "请点击一次页面顶部的蓝色按钮"
+   },
+   "statusVideoFound": {
+      "message": "已找到视频"
+   },
+   "tenSeconds": {
+      "message": "10秒"
+   },
+   "thirtySeconds": {
+      "message": "30秒"
+   },
+   "timeline": {
+      "message": "播放位置"
+   },
+   "videoArea": {
+      "message": "视频区域"
+   },
+   "volume": {
+      "message": "音量"
+   },
+   "windowLarger": {
+      "message": "放大窗口"
+   },
+   "windowSmaller": {
+      "message": "缩小窗口"
+   },
+   "zoomIn": {
+      "message": "放大 (+)"
+   },
+   "zoomOut": {
+      "message": "缩小 (-)"
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "Mở video web trong cửa sổ độc lập với xoay, thu phóng, toàn màn hình và điều khiển bằng bàn phím."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "Vừa khung"
+   },
+   "fiveSeconds": {
+      "message": "5 giây"
+   },
+   "fullscreen": {
+      "message": "Toàn màn hình (F)"
+   },
+   "localProcessing": {
+      "message": "Xử lý trên thiết bị"
+   },
+   "mute": {
+      "message": "Tắt tiếng (M)"
+   },
+   "noTransmission": {
+      "message": "Không truyền dữ liệu"
+   },
+   "openPlayer": {
+      "message": "Mở trình phát"
+   },
+   "playPause": {
+      "message": "Phát hoặc tạm dừng (Phím cách)"
+   },
+   "playbackSpeed": {
+      "message": "Tốc độ phát"
+   },
+   "popupTagline": {
+      "message": "Trình phát độc lập để tập trung"
+   },
+   "privacy": {
+      "message": "Quyền riêng tư"
+   },
+   "privacyAria": {
+      "message": "Quyền riêng tư"
+   },
+   "resetView": {
+      "message": "Đặt lại xoay và thu phóng (0)"
+   },
+   "rotate": {
+      "message": "Xoay 90° (R)"
+   },
+   "statusNativePip": {
+      "message": "Video được bảo vệ đã mở bằng chế độ Hình trong hình của Chrome"
+   },
+   "statusOpening": {
+      "message": "Đang mở trình phát…"
+   },
+   "statusPlayingFound": {
+      "message": "Đã tìm thấy video đang phát"
+   },
+   "statusSearching": {
+      "message": "Đang tìm video…"
+   },
+   "statusUserGesture": {
+      "message": "Hãy nhấn nút màu xanh ở đầu trang một lần"
+   },
+   "statusVideoFound": {
+      "message": "Đã tìm thấy video"
+   },
+   "tenSeconds": {
+      "message": "10 giây"
+   },
+   "thirtySeconds": {
+      "message": "30 giây"
+   },
+   "timeline": {
+      "message": "Vị trí phát"
+   },
+   "videoArea": {
+      "message": "Vùng video"
+   },
+   "volume": {
+      "message": "Âm lượng"
+   },
+   "windowLarger": {
+      "message": "Phóng to cửa sổ"
+   },
+   "windowSmaller": {
+      "message": "Thu nhỏ cửa sổ"
+   },
+   "zoomIn": {
+      "message": "Phóng to (+)"
+   },
+   "zoomOut": {
+      "message": "Thu nhỏ (-)"
+   }
+}

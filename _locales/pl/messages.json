@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "Otwieraj filmy z sieci w osobnym oknie z obrotem, zoomem, pełnym ekranem i sterowaniem klawiaturą."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "Dopasuj"
+   },
+   "fiveSeconds": {
+      "message": "5 s"
+   },
+   "fullscreen": {
+      "message": "Pełny ekran (F)"
+   },
+   "localProcessing": {
+      "message": "Przetwarzanie na urządzeniu"
+   },
+   "mute": {
+      "message": "Wycisz (M)"
+   },
+   "noTransmission": {
+      "message": "Bez przesyłania"
+   },
+   "openPlayer": {
+      "message": "Otwórz odtwarzacz"
+   },
+   "playPause": {
+      "message": "Odtwórz lub wstrzymaj (Spacja)"
+   },
+   "playbackSpeed": {
+      "message": "Szybkość odtwarzania"
+   },
+   "popupTagline": {
+      "message": "Niezależny odtwarzacz do oglądania bez rozpraszania"
+   },
+   "privacy": {
+      "message": "Prywatność"
+   },
+   "privacyAria": {
+      "message": "Prywatność"
+   },
+   "resetView": {
+      "message": "Zresetuj obrót i powiększenie (0)"
+   },
+   "rotate": {
+      "message": "Obróć o 90° (R)"
+   },
+   "statusNativePip": {
+      "message": "Chroniony film otwarto w trybie obraz w obrazie Chrome"
+   },
+   "statusOpening": {
+      "message": "Otwieranie odtwarzacza…"
+   },
+   "statusPlayingFound": {
+      "message": "Znaleziono odtwarzany film"
+   },
+   "statusSearching": {
+      "message": "Wyszukiwanie filmu…"
+   },
+   "statusUserGesture": {
+      "message": "Kliknij raz niebieski przycisk u góry strony"
+   },
+   "statusVideoFound": {
+      "message": "Znaleziono film"
+   },
+   "tenSeconds": {
+      "message": "10 s"
+   },
+   "thirtySeconds": {
+      "message": "30 s"
+   },
+   "timeline": {
+      "message": "Pozycja odtwarzania"
+   },
+   "videoArea": {
+      "message": "Obszar filmu"
+   },
+   "volume": {
+      "message": "Głośność"
+   },
+   "windowLarger": {
+      "message": "Powiększ okno"
+   },
+   "windowSmaller": {
+      "message": "Zmniejsz okno"
+   },
+   "zoomIn": {
+      "message": "Powiększ (+)"
+   },
+   "zoomOut": {
+      "message": "Pomniejsz (-)"
+   }
+}

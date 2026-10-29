@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "Abre videos web en una ventana independiente con rotación, zoom, pantalla completa y controles de teclado."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "Ajustar"
+   },
+   "fiveSeconds": {
+      "message": "5 s"
+   },
+   "fullscreen": {
+      "message": "Pantalla completa (F)"
+   },
+   "localProcessing": {
+      "message": "Procesamiento local"
+   },
+   "mute": {
+      "message": "Silenciar (M)"
+   },
+   "noTransmission": {
+      "message": "Sin transmisión"
+   },
+   "openPlayer": {
+      "message": "Abrir reproductor"
+   },
+   "playPause": {
+      "message": "Reproducir o pausar (Espacio)"
+   },
+   "playbackSpeed": {
+      "message": "Velocidad"
+   },
+   "popupTagline": {
+      "message": "Reproductor independiente para concentrarte"
+   },
+   "privacy": {
+      "message": "Privacidad"
+   },
+   "privacyAria": {
+      "message": "Prácticas de privacidad"
+   },
+   "resetView": {
+      "message": "Restablecer giro y zoom (0)"
+   },
+   "rotate": {
+      "message": "Girar 90° (R)"
+   },
+   "statusNativePip": {
+      "message": "El video protegido se abrió en imagen en imagen de Chrome"
+   },
+   "statusOpening": {
+      "message": "Abriendo el reproductor…"
+   },
+   "statusPlayingFound": {
+      "message": "Se encontró el video en reproducción"
+   },
+   "statusSearching": {
+      "message": "Buscando un video…"
+   },
+   "statusUserGesture": {
+      "message": "Selecciona una vez el botón azul en la parte superior de la página"
+   },
+   "statusVideoFound": {
+      "message": "Video encontrado"
+   },
+   "tenSeconds": {
+      "message": "10 s"
+   },
+   "thirtySeconds": {
+      "message": "30 s"
+   },
+   "timeline": {
+      "message": "Posición de reproducción"
+   },
+   "videoArea": {
+      "message": "Área de video"
+   },
+   "volume": {
+      "message": "Volumen"
+   },
+   "windowLarger": {
+      "message": "Ampliar ventana"
+   },
+   "windowSmaller": {
+      "message": "Reducir ventana"
+   },
+   "zoomIn": {
+      "message": "Acercar (+)"
+   },
+   "zoomOut": {
+      "message": "Alejar (-)"
+   }
+}

@@ -1,0 +1,239 @@
+{
+   "closePlayer": {
+      "message": "Close player"
+   },
+   "displayMissing": {
+      "message": "Saved monitor (disconnected)"
+   },
+   "displayOther": {
+      "message": "Other monitor (automatic)"
+   },
+   "displayPrimary": {
+      "message": "primary"
+   },
+   "displaySame": {
+      "message": "Same monitor as the browser"
+   },
+   "errorCaptureUnsupported": {
+      "message": "Video capture is not supported."
+   },
+   "errorNoActiveTab": {
+      "message": "The active tab could not be found."
+   },
+   "errorNoVideo": {
+      "message": "No playable video was found in this tab."
+   },
+   "errorOpenFailed": {
+      "message": "The player could not be opened."
+   },
+   "errorPopupBlocked": {
+      "message": "The popup window was blocked."
+   },
+   "errorProtectedPipUnavailable": {
+      "message": "This protected video cannot use Chrome Picture-in-Picture."
+   },
+   "errorRestricted": {
+      "message": "Chrome restricts access to this page."
+   },
+   "errorVideoGone": {
+      "message": "The video is no longer available. Refresh the page and try again."
+   },
+   "extensionDescription": {
+      "message": "Open web videos in an independent window with rotation, zoom, fullscreen, keyboard seeking, volume, and speed controls."
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "Fit"
+   },
+   "fiveSeconds": {
+      "message": "5 sec"
+   },
+   "fullscreen": {
+      "message": "Fullscreen (F)"
+   },
+   "fullscreenUnavailable": {
+      "message": "Fullscreen is unavailable."
+   },
+   "localProcessing": {
+      "message": "On-device"
+   },
+   "mirrorPlaybackFailed": {
+      "message": "Mirror playback could not start."
+   },
+   "mute": {
+      "message": "Mute (M)"
+   },
+   "muted": {
+      "message": "Muted"
+   },
+   "noTransmission": {
+      "message": "No transmission"
+   },
+   "openPlayer": {
+      "message": "Open player"
+   },
+   "optionsBehaviorTitle": {
+      "message": "Behavior"
+   },
+   "optionsCloseOnEnd": {
+      "message": "Close the player when the video ends"
+   },
+   "optionsFollowVideo": {
+      "message": "When the video changes, reopen the player with the one playing"
+   },
+   "optionsForget": {
+      "message": "Forget saved position"
+   },
+   "optionsFullscreen": {
+      "message": "Open in fullscreen on the chosen monitor"
+   },
+   "optionsHeight": {
+      "message": "Height (px)"
+   },
+   "optionsMonitor": {
+      "message": "Monitor"
+   },
+   "optionsNoSavedPosition": {
+      "message": "No position saved yet."
+   },
+   "optionsPosition": {
+      "message": "Position on the screen"
+   },
+   "optionsRememberHint": {
+      "message": "The player opens where you last moved or resized it. The first time, it uses the monitor and size set here."
+   },
+   "optionsSaved": {
+      "message": "Saved"
+   },
+   "optionsSavedPosition": {
+      "message": "Saved position"
+   },
+   "optionsTitle": {
+      "message": "Settings"
+   },
+   "optionsWhereTitle": {
+      "message": "Where the player opens"
+   },
+   "optionsWidth": {
+      "message": "Width (px)"
+   },
+   "optionsX": {
+      "message": "X (px from the monitor's left edge)"
+   },
+   "optionsY": {
+      "message": "Y (px from the monitor's top edge)"
+   },
+   "optionsYoutubeButton": {
+      "message": "Show a second-screen button in the YouTube player bar"
+   },
+   "playPause": {
+      "message": "Play or pause (Space)"
+   },
+   "playbackSpeed": {
+      "message": "Playback speed"
+   },
+   "popupTagline": {
+      "message": "Independent player for focus"
+   },
+   "positionBottomLeft": {
+      "message": "Bottom left"
+   },
+   "positionBottomRight": {
+      "message": "Bottom right"
+   },
+   "positionCenter": {
+      "message": "Center"
+   },
+   "positionCustom": {
+      "message": "Custom (X, Y)"
+   },
+   "positionRemember": {
+      "message": "Remember where I last left it"
+   },
+   "positionTopLeft": {
+      "message": "Top left"
+   },
+   "positionTopRight": {
+      "message": "Top right"
+   },
+   "privacy": {
+      "message": "Privacy"
+   },
+   "privacyAria": {
+      "message": "Privacy practices"
+   },
+   "resetView": {
+      "message": "Reset rotation and zoom (0)"
+   },
+   "retry": {
+      "message": "Try again"
+   },
+   "rotate": {
+      "message": "Rotate 90° (R)"
+   },
+   "secondsUnit": {
+      "message": "sec"
+   },
+   "soundOn": {
+      "message": "Sound on"
+   },
+   "startInOriginalTab": {
+      "message": "Start playback in the original tab."
+   },
+   "statusNativePip": {
+      "message": "Protected video opened in Chrome Picture-in-Picture"
+   },
+   "statusOpening": {
+      "message": "Opening player…"
+   },
+   "statusPlayingFound": {
+      "message": "Playing video found"
+   },
+   "statusSearching": {
+      "message": "Finding a video…"
+   },
+   "statusUserGesture": {
+      "message": "Select the blue button at the top of the page once"
+   },
+   "statusVideoFound": {
+      "message": "Video found"
+   },
+   "tenSeconds": {
+      "message": "10 sec"
+   },
+   "thirtySeconds": {
+      "message": "30 sec"
+   },
+   "timeline": {
+      "message": "Playback position"
+   },
+   "video": {
+      "message": "Video"
+   },
+   "videoArea": {
+      "message": "Video area"
+   },
+   "volume": {
+      "message": "Volume"
+   },
+   "windowLarger": {
+      "message": "Make window larger"
+   },
+   "windowSmaller": {
+      "message": "Make window smaller"
+   },
+   "youtubeButtonClose": {
+      "message": "Close second screen (FrameRoam Focus)"
+   },
+   "youtubeButtonOpen": {
+      "message": "Open on second screen (FrameRoam Focus)"
+   },
+   "zoomIn": {
+      "message": "Zoom in (+)"
+   },
+   "zoomOut": {
+      "message": "Zoom out (-)"
+   }
+}

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>FrameRoam Focus</title>
+    <link rel="stylesheet" href="options.css">
+  </head>
+  <body>
+    <main class="page">
+      <header class="brand">
+        <span class="mark" aria-hidden="true"><span></span></span>
+        <span class="heading">
+          <strong data-i18n="optionsTitle">Settings</strong>
+          <small data-i18n="extensionName">FrameRoam Focus</small>
+        </span>
+        <span id="saved" class="saved" role="status" aria-live="polite"></span>
+      </header>
+
+      <form id="settings" autocomplete="off">
+        <section class="card">
+          <h2 data-i18n="optionsWhereTitle">Where the player opens</h2>
+          <div id="map" class="map" aria-hidden="true"></div>
+
+          <label class="field">
+            <span data-i18n="optionsMonitor">Monitor</span>
+            <select name="display"></select>
+          </label>
+
+          <label class="field">
+            <span data-i18n="optionsPosition">Position on the screen</span>
+            <select name="position">
+              <option value="remember" data-i18n="positionRemember">Remember where I last left it</option>
+              <option value="center" data-i18n="positionCenter">Center</option>
+              <option value="top-left" data-i18n="positionTopLeft">Top left</option>
+              <option value="top-right" data-i18n="positionTopRight">Top right</option>
+              <option value="bottom-left" data-i18n="positionBottomLeft">Bottom left</option>
+              <option value="bottom-right" data-i18n="positionBottomRight">Bottom right</option>
+              <option value="custom" data-i18n="positionCustom">Custom (X, Y)</option>
+            </select>
+          </label>
+
+          <div id="remember-info" class="note">
+            <p class="hint" data-i18n="optionsRememberHint">The player opens where you last moved or resized it.</p>
+            <p id="saved-position" class="hint"></p>
+            <button id="forget" type="button" class="link" data-i18n="optionsForget">Forget saved position</button>
+          </div>
+
+          <div id="custom-fields" class="grid">
+            <label class="field">
+              <span data-i18n="optionsX">X</span>
+              <input name="x" type="number" min="0" step="10" inputmode="numeric">
+            </label>
+            <label class="field">
+              <span data-i18n="optionsY">Y</span>
+              <input name="y" type="number" min="0" step="10" inputmode="numeric">
+            </label>
+          </div>
+
+          <div class="grid">
+            <label class="field">
+              <span data-i18n="optionsWidth">Width (px)</span>
+              <input name="width" type="number" min="320" step="10" inputmode="numeric">
+            </label>
+            <label class="field">
+              <span data-i18n="optionsHeight">Height (px)</span>
+              <input name="height" type="number" min="200" step="10" inputmode="numeric">
+            </label>
+          </div>
+
+          <label class="check">
+            <input name="fullscreen" type="checkbox">
+            <span data-i18n="optionsFullscreen">Open in fullscreen on the chosen monitor</span>
+          </label>
+        </section>
+
+        <section class="card">
+          <h2 data-i18n="optionsBehaviorTitle">Behavior</h2>
+          <label class="check">
+            <input name="closeOnEnd" type="checkbox">
+            <span data-i18n="optionsCloseOnEnd">Close the player when the video ends</span>
+          </label>
+          <label class="check">
+            <input name="followVideo" type="checkbox">
+            <span data-i18n="optionsFollowVideo">When the video changes, reopen the player with the one playing</span>
+          </label>
+          <label class="check">
+            <input name="youtubeButton" type="checkbox">
+            <span data-i18n="optionsYoutubeButton">Show a second-screen button in the YouTube player bar</span>
+          </label>
+        </section>
+      </form>
+    </main>
+    <script src="shared/settings.js"></script>
+    <script src="options.js"></script>
+  </body>
+</html>

@@ -1,0 +1,95 @@
+{
+   "extensionDescription": {
+      "message": "เปิดวิดีโอเว็บในหน้าต่างอิสระ พร้อมหมุน ซูม เต็มหน้าจอ และควบคุมการเล่นด้วยแป้นพิมพ์"
+   },
+   "extensionName": {
+      "message": "FrameRoam Focus"
+   },
+   "fit": {
+      "message": "พอดีจอ"
+   },
+   "fiveSeconds": {
+      "message": "5 วินาที"
+   },
+   "fullscreen": {
+      "message": "เต็มหน้าจอ (F)"
+   },
+   "localProcessing": {
+      "message": "ประมวลผลในอุปกรณ์"
+   },
+   "mute": {
+      "message": "ปิดเสียง (M)"
+   },
+   "noTransmission": {
+      "message": "ไม่มีการส่งข้อมูล"
+   },
+   "openPlayer": {
+      "message": "เปิดโปรแกรมเล่น"
+   },
+   "playPause": {
+      "message": "เล่นหรือหยุดชั่วคราว (Space)"
+   },
+   "playbackSpeed": {
+      "message": "ความเร็วในการเล่น"
+   },
+   "popupTagline": {
+      "message": "โปรแกรมเล่นอิสระเพื่อการรับชมอย่างมีสมาธิ"
+   },
+   "privacy": {
+      "message": "ความเป็นส่วนตัว"
+   },
+   "privacyAria": {
+      "message": "แนวทางความเป็นส่วนตัว"
+   },
+   "resetView": {
+      "message": "รีเซ็ตการหมุนและการซูม (0)"
+   },
+   "rotate": {
+      "message": "หมุน 90° (R)"
+   },
+   "statusNativePip": {
+      "message": "เปิดวิดีโอที่มีการป้องกันด้วยโหมดภาพซ้อนภาพของ Chrome"
+   },
+   "statusOpening": {
+      "message": "กำลังเปิดโปรแกรมเล่น…"
+   },
+   "statusPlayingFound": {
+      "message": "พบวิดีโอที่กำลังเล่น"
+   },
+   "statusSearching": {
+      "message": "กำลังค้นหาวิดีโอ…"
+   },
+   "statusUserGesture": {
+      "message": "กดปุ่มสีน้ำเงินด้านบนของหน้าเว็บหนึ่งครั้ง"
+   },
+   "statusVideoFound": {
+      "message": "พบวิดีโอแล้ว"
+   },
+   "tenSeconds": {
+      "message": "10 วินาที"
+   },
+   "thirtySeconds": {
+      "message": "30 วินาที"
+   },
+   "timeline": {
+      "message": "ตำแหน่งการเล่น"
+   },
+   "videoArea": {
+      "message": "พื้นที่วิดีโอ"
+   },
+   "volume": {
+      "message": "ระดับเสียง"
+   },
+   "windowLarger": {
+      "message": "ขยายหน้าต่าง"
+   },
+   "windowSmaller": {
+      "message": "ย่อหน้าต่าง"
+   },
+   "zoomIn": {
+      "message": "ซูมเข้า (+)"
+   },
+   "zoomOut": {
+      "message": "ซูมออก (-)"
+   }
+}
